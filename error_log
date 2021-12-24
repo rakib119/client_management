@@ -1,0 +1,65 @@
+[14-Dec-2021 13:19:26 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/profile.php on line 5
+[14-Dec-2021 13:19:26 asia/dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/profile.php on line 38
+[14-Dec-2021 13:19:39 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/profile.php on line 5
+[14-Dec-2021 13:19:39 asia/dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/profile.php on line 38
+[14-Dec-2021 14:32:10 asia/dhaka] PHP Warning:  unlink(assets/images/upload/): Is a directory in /home2/bgdbilling/public_html/edit_client_action.php on line 47
+[14-Dec-2021 14:53:16 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[14-Dec-2021 15:12:25 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[14-Dec-2021 15:13:37 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[14-Dec-2021 15:50:20 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[14-Dec-2021 17:08:30 asia/dhaka] PHP Warning:  Use of undefined constant fetch - assumed 'fetch' (this will throw an Error in a future version of PHP) in /home2/bgdbilling/public_html/delete_pending_purchase.php on line 11
+[14-Dec-2021 17:08:30 asia/dhaka] PHP Warning:  Illegal string offset 'selling_price' in /home2/bgdbilling/public_html/delete_pending_purchase.php on line 11
+[14-Dec-2021 17:08:30 asia/dhaka] PHP Warning:  A non-numeric value encountered in /home2/bgdbilling/public_html/delete_pending_purchase.php on line 14
+[14-Dec-2021 17:34:58 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:36:29 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:36:43 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:39:03 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:40:57 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:41:02 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:41:34 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:41:44 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:45:11 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 17:45:33 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/purchase_now_action.php on line 10
+[14-Dec-2021 22:44:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bgdbilling/public_html/inc/functions.inc.php on line 2
+[15-Dec-2021 10:44:27 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:2) in /home2/bgdbilling/public_html/edit_permission_action.php on line 39
+[14-Dec-2021 22:44:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/bgdbilling/public_html/inc/functions.inc.php on line 2
+[15-Dec-2021 10:44:54 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:2) in /home2/bgdbilling/public_html/edit_permission_action.php on line 39
+[15-Dec-2021 10:48:42 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 39
+[15-Dec-2021 10:49:41 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 39
+[15-Dec-2021 10:50:14 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 39
+[15-Dec-2021 10:51:08 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 40
+[15-Dec-2021 10:51:12 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 40
+[15-Dec-2021 10:51:18 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/inc/functions.inc.php:25) in /home2/bgdbilling/public_html/edit_permission_action.php on line 40
+[15-Dec-2021 11:02:24 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:18) in /home2/bgdbilling/public_html/edit_permission_action.php on line 34
+[15-Dec-2021 11:02:37 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:18) in /home2/bgdbilling/public_html/edit_permission_action.php on line 30
+[15-Dec-2021 11:03:00 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:18) in /home2/bgdbilling/public_html/edit_permission_action.php on line 30
+[15-Dec-2021 11:03:10 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/edit_permission_action.php:18) in /home2/bgdbilling/public_html/edit_permission_action.php on line 30
+[15-Dec-2021 12:38:09 asia/dhaka] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home2/bgdbilling/public_html/report_action.php:146
+Stack trace:
+#0 {main}
+  thrown in /home2/bgdbilling/public_html/report_action.php on line 146
+[15-Dec-2021 12:38:13 asia/dhaka] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home2/bgdbilling/public_html/report_action.php:146
+Stack trace:
+#0 {main}
+  thrown in /home2/bgdbilling/public_html/report_action.php on line 146
+[15-Dec-2021 12:38:17 asia/dhaka] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home2/bgdbilling/public_html/report_action.php:146
+Stack trace:
+#0 {main}
+  thrown in /home2/bgdbilling/public_html/report_action.php on line 146
+[15-Dec-2021 15:04:51 asia/dhaka] PHP Warning:  unlink(assets/images/upload/): Is a directory in /home2/bgdbilling/public_html/edit_client_action.php on line 47
+[15-Dec-2021 15:05:16 asia/dhaka] PHP Warning:  unlink(assets/images/upload/): Is a directory in /home2/bgdbilling/public_html/edit_client_action.php on line 47
+[15-Dec-2021 15:10:59 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-category-action.php:17) in /home2/bgdbilling/public_html/service-category-action.php on line 32
+[15-Dec-2021 15:12:06 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-category-action.php:49) in /home2/bgdbilling/public_html/service-category-action.php on line 66
+[15-Dec-2021 15:13:02 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:67) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 86
+[15-Dec-2021 15:13:42 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:67) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 86
+[15-Dec-2021 16:44:04 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:67) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 86
+[15-Dec-2021 16:44:55 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:24) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 41
+[15-Dec-2021 16:54:01 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:24) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 39
+[18-Dec-2021 10:37:29 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-sub-category-action.php:65) in /home2/bgdbilling/public_html/service-sub-category-action.php on line 84
+[18-Dec-2021 11:28:50 asia/dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/get_sub_cat.php on line 14
+[18-Dec-2021 11:50:47 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-action.php:182) in /home2/bgdbilling/public_html/service-action.php on line 211
+[18-Dec-2021 11:51:35 asia/dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bgdbilling/public_html/service-action.php:79) in /home2/bgdbilling/public_html/service-action.php on line 104
+[18-Dec-2021 17:42:12 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[18-Dec-2021 17:42:37 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[18-Dec-2021 17:42:51 asia/dhaka] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/client_details.php on line 8
+[19-Dec-2021 12:26:20 asia/dhaka] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home2/bgdbilling/public_html/get_service.php on line 12

@@ -1,0 +1,82 @@
+.hide{
+    display: none;
+}
+form .successcheck , form .successtext{
+    color: #23C58F;
+   }
+form .successcheck {
+       position: absolute;
+       right: 23px;
+       top: 34px;
+       z-index: 1;
+       font-size: 18px;
+       }
+
+form .wrrongcheck , form .wrrongtext{
+    color: #F36E6E;
+   }
+form .wrrongcheck {
+       position: absolute;
+       right: 23px;
+       top: 34px;
+       z-index: 1;
+       font-size: 18px;
+       }
+/*mendotory color span tag*/
+form span {
+    color: red;
+}
+/*add_campaign.php*/
+.type_name {
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.reg_wrrongsms{
+position: fixed;
+padding: 10px;
+top: 10px;
+right: 10px;
+z-index: 99999;
+}
+.reg_wrrongsms p{
+    padding: 10px;
+}
+.nav-itembtn a {
+    cursor: pointer !important;
+}
+/*=====slider code start ====*/
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 319px;
+    object-fit: cover;
+}
+.carousel-item a {
+    float: right;
+    position: absolute;
+    right: 0px;
+    z-index: 3;
+}
+/*=====slider code end ====*/
+.lessmt-5{
+        margin-top: -148px !important;
+}
+
+.viewbtn {
+    background: none ;
+    border: none ;
+}
+/*== client view page-box page-text card==*/
+.cpage{
+    margin-top:72px;
+}
+.cpage-text{
+    margin-left: 25px;
+}
+.ccard{
+    margin:0px 20px 20px 20px;
+}
+.img-fluid-custom {
+    max-width: 100%;
+    height:auto;
+}
